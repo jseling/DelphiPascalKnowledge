@@ -93,7 +93,7 @@ REGEX
 - http://aurelio.net/regex/guia/
 
 OPENGL
--http://delphi.org/2018/02/live-episode-on-delphi-games-and-graphics-engines/
+- http://delphi.org/2018/02/live-episode-on-delphi-games-and-graphics-engines/
 
 AUTENTICAÇÃO
 - https://github.com/paolo-rossi/delphi-jose-jwt
