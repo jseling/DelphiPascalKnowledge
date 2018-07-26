@@ -18,10 +18,10 @@ Blogs and sites
 * http://delphigames.blogspot.com/
 
 
-* DELPHI
+DELPHI
 - https://stackoverflow.com/questions/373449/what-simple-changes-made-the-biggest-improvements-to-your-delphi-programs?page=2&tab=votes#tab-top
 
-* IMAGEM
+IMAGEM
 - https://stackoverflow.com/questions/10633400/rotate-bitmap-by-real-angle
 - https://www.daniweb.com/programming/software-development/threads/382249/rotating-delphi-canvas-art-360-degrees
 
@@ -29,9 +29,7 @@ Blogs and sites
 
 - http://www.efg2.com/Lab/ImageProcessing/RotateScanline.htm
 
-
-
-* REST
+REST
 - http://etutorials.org/Programming/mastering+delphi+7/Part+IV+Delphi+the+Internet+and+a+.NET+Preview/Chapter+20+Web+Programming+with+WebBroker+and+WebSnap/Delphi+s+WebBroker+Technology/
 
 - http://www.delphisources.ru/pages/faq/master-delphi-7/content/LiB0188.html
@@ -45,14 +43,13 @@ Blogs and sites
 - https://flixengineering.com/archives/229
 - https://flixengineering.com/archives/248
 
-
-* RTTI
+RTTI
 - http://edn.embarcadero.com/br/article/41728
 
-* REPBUILDER
+REPBUILDER
 - http://wiki.rh3software.com/rh3/doku.php?id=manual_usuario:outros:formatador_relatorio_reportbuilder_resumo 
 
-* EXTENSO
+EXTENSO
 - https://torry.net/quicksearchd.php?String=NumWords&Title=Yes
 
 - http://www.migalhas.com.br/Gramatigalhas/10,MI30427,91041-Hum
@@ -69,7 +66,7 @@ Blogs and sites
 
 - https://www.englishexperts.com.br/wp-content/themes/master/tools/numeros-extenso/numbers.js
 
-* MEMORIA
+MEMORIA
 - http://conexaoss.blogspot.com.br/2016/08/delphi-comando-para-reducao-de-memoria.html
 
 - http://www.agnaldocarmo.com.br/home/comando-milagroso-para-reducao-de-memoria-delphi/
@@ -77,10 +74,10 @@ Blogs and sites
 - https://www.thoughtco.com/design-your-delphi-program-1058488
 
 
-* ODATA
+ODATA
 - http://www.odata.org/documentation/
 
-* PARSER
+PARSER
 - https://johnidm.gitbooks.io/compiladores-para-humanos/content/part1/lexical-analysis.html
 
 - https://inf.ufes.br/~tavares/labcomp2000/introcomp.html
@@ -90,15 +87,15 @@ Blogs and sites
 - https://pt.wikiversity.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0_Teoria_dos_Compiladores/An%C3%A1lise_L%C3%A9xica
 
 
-* REGEX
+REGEX
 - http://www.regular-expressions.info/delphi.html
 
 - http://aurelio.net/regex/guia/
 
-* OPENGL
+OPENGL
 -http://delphi.org/2018/02/live-episode-on-delphi-games-and-graphics-engines/
 
-* AUTENTICAÇÃO
+AUTENTICAÇÃO
 - https://github.com/paolo-rossi/delphi-jose-jwt
 - http://blog.paolorossi.net/2017/04/27/jwt-authentication-with-delphi/
 
@@ -136,7 +133,7 @@ Blogs and sites
 - http://blog.caelum.com.br/morte-a-sessao-entenda-esse-tal-de-stateless-session-com-tokens/
 
 
-* IIS
+IIS
 
 - http://docwiki.embarcadero.com/RADStudio/Tokyo/en/Tutorial:_DataSnap_Application_Using_an_ISAPI_DLL_Server
 
@@ -152,7 +149,7 @@ Blogs and sites
 
 - http://unigui.com/doc/online_help/index.html?standalone-server-_-isap-modul.htm
 
-* AGENDADOR
+AGENDADOR
 - http://chapmanworld.com/2017/04/05/creating-a-linux-daemon-service-in-delphi/
 
 - http://blog.paolorossi.net/2017/07/11/building-a-real-linux-daemon-with-delphi-part-1-2/
@@ -163,12 +160,12 @@ Blogs and sites
 - https://haacked.com/archive/2005/10/24/writing-a-windows-service-when-you-just-need-a-scheduled-process.aspx/
 - https://weblogs.asp.net/jongalloway/428303
 
-* LINUX
+LINUX
 - https://community.embarcadero.com/pt/blogs/entry/delphi-for-linux-rtl-units
  
 - http://chapmanworld.com/2017/04/05/creating-a-linux-daemon-service-in-delphi/
 
-* DESIGN PATTERNS
+DESIGN PATTERNS
 - https://www.yegor256.com/2016/02/03/design-patterns-and-anti-patterns.html
 
 - https://www.lambda3.com.br/2009/04/o-que-sao-interfaces-fluentes/
@@ -180,7 +177,7 @@ Blogs and sites
 - https://sourcemaking.com/design_patterns
 
 
-* EMAIL
+EMAIL
 - http://pragmaticcoders.com/blog/retrying-exceptions-handling-internet-connection-problems/
 - https://www.experts-exchange.com/questions/26190375/try-exception-with-retry-count.html
 
@@ -193,6 +190,6 @@ var tryLimit: integer; ..... tryLimit := 5; while tryLimit > 0 do try check; try
 - http://www.planetadelphi.com.br/dica/7339/convertendo-richedit-em-html-sem-precisar-de-componentes-
 - https://www.devexpress.com/Support/Center/Question/Details/S91566/html-editor-component
 
-* EXCEÇÕES
+EXCEÇÕES
 - http://sheepdogguides.com/dt4u.htm
 - http://www.swissdelphicenter.ch/en/showarticle.php?id=1
