@@ -3,6 +3,7 @@ Blogs and sites
 
 * http://objectpascalprogramming.com/archive/
 * http://www.andrecelestino.com/todos-os-artigos-do-blog-andre-celestino/
+* http://chapmanworld.com/
 * http://edgarpavao.com/
 
 * http://blog.marcocantu.com/
