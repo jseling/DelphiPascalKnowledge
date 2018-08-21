@@ -19,7 +19,7 @@ Blogs and sites
 * http://delphigames.blogspot.com/
 
 
-* https://www.redhat.com/en/search/path%20ebook%20cloud
+* https://www.redhat.com/cms/managed-files/mi-path-to-cloud-native-apps-ebook-f12255cs-201805-en_0.pdf
 
 DELPHI
 - https://stackoverflow.com/questions/373449/what-simple-changes-made-the-biggest-improvements-to-your-delphi-programs?page=2&tab=votes#tab-top
