@@ -19,6 +19,8 @@ Blogs and sites
 * http://delphigames.blogspot.com/
 
 
+* https://www.redhat.com/en/search/path%20ebook%20cloud
+
 DELPHI
 - https://stackoverflow.com/questions/373449/what-simple-changes-made-the-biggest-improvements-to-your-delphi-programs?page=2&tab=votes#tab-top
 
