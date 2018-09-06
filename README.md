@@ -26,7 +26,7 @@
 - http://www.efg2.com/Lab/ImageProcessing/RotateScanline.htm
 
 ## REST
--http://etutorials.org/Programming/mastering+delphi+7/Part+IV+Delphi+the+Internet+and+a+.NET+Preview/Chapter+20+Web+Programming+with+WebBroker+and+WebSnap/Delphi+s+WebBroker+Technology/
+- http://etutorials.org/Programming/mastering+delphi+7/Part+IV+Delphi+the+Internet+and+a+.NET+Preview/Chapter+20+Web+Programming+with+WebBroker+and+WebSnap/Delphi+s+WebBroker+Technology/
 - http://www.delphisources.ru/pages/faq/master-delphi-7/content/LiB0188.html
 - http://www.restapitutorial.com/lessons/whatisrest.html#
 - https://pt.slideshare.net/kmerlotti/datasnap-avanado-respostas-para-um-sistema-robusto-embarcadero-conference-2015
@@ -49,7 +49,7 @@
 - http://www.regular-expressions.info/delphi.html
 - http://aurelio.net/regex/guia/
 
-## OPENGL
+## OpenGL
 - http://delphi.org/2018/02/live-episode-on-delphi-games-and-graphics-engines/
 
 ## Autenticação
