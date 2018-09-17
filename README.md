@@ -14,7 +14,7 @@
 - https://robertocschneiders.wordpress.com/
 - http://www.malcolmgroves.com
 - http://delphigames.blogspot.com/
-
+- https://marcosalles.wordpress.com/
 
 ## Delphi
 - https://stackoverflow.com/questions/373449/what-simple-changes-made-the-biggest-improvements-to-your-delphi-programs?page=2&tab=votes#tab-top
