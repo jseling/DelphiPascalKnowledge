@@ -20,6 +20,8 @@
 
 ## Delphi
 - https://stackoverflow.com/questions/373449/what-simple-changes-made-the-biggest-improvements-to-your-delphi-programs?page=2&tab=votes#tab-top
+- [Entrevista Cantu](https://entwickler-konferenz.de/blog/delphi-development-still-going-strong/)
+
 
 ## Gráficos
 - https://stackoverflow.com/questions/10633400/rotate-bitmap-by-real-angle
