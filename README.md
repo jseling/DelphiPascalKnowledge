@@ -23,6 +23,9 @@
 - https://stackoverflow.com/questions/373449/what-simple-changes-made-the-biggest-improvements-to-your-delphi-programs?page=2&tab=votes#tab-top
 - [Entrevista Cantu](https://entwickler-konferenz.de/blog/delphi-development-still-going-strong/)
 
+- [Property/event differences between Delphi forms and frames](https://wiert.me/2018/08/22/property-event-differences-between-delphi-forms-and-frames/)
+- [Introduction to Python for Delphi programmers](https://sergworks.wordpress.com/2018/08/25/introduction-to-python-for-delphi-programmers/)
+
 
 ## Gráficos
 - https://stackoverflow.com/questions/10633400/rotate-bitmap-by-real-angle
