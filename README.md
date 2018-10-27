@@ -20,7 +20,7 @@
 - http://www.delphifeeds.com/
 
 ## Delphi
-- https://stackoverflow.com/questions/373449/what-simple-changes-made-the-biggest-improvements-to-your-delphi-programs?page=2&tab=votes#tab-top
+- [What Simple Changes Made the Biggest Improvements to Your Delphi Programs - Stackoverflow](https://stackoverflow.com/questions/373449/what-simple-changes-made-the-biggest-improvements-to-your-delphi-programs)
 - [Entrevista Cantu](https://entwickler-konferenz.de/blog/delphi-development-still-going-strong/)
 
 - [Property/event differences between Delphi forms and frames](https://wiert.me/2018/08/22/property-event-differences-between-delphi-forms-and-frames/)
