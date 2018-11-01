@@ -25,6 +25,7 @@
 
 - [Property/event differences between Delphi forms and frames](https://wiert.me/2018/08/22/property-event-differences-between-delphi-forms-and-frames/)
 - [Introduction to Python for Delphi programmers](https://sergworks.wordpress.com/2018/08/25/introduction-to-python-for-delphi-programmers/)
+- [SendMessage Data](http://blog.marcocantu.com/blog/2014-september-vcl-xe7-taskbar-jumplist.html)
 
 
 ## Gráficos
