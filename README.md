@@ -1,6 +1,7 @@
 # DelphiPascalKnowledge
 
 ## Blogs and sites
+- https://www.thedelphigeek.com/
 - https://sergworks.wordpress.com/
 - http://objectpascalprogramming.com/archive/
 - http://www.andrecelestino.com/todos-os-artigos-do-blog-andre-celestino/
