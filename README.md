@@ -28,6 +28,9 @@
 - [Introduction to Python for Delphi programmers](https://sergworks.wordpress.com/2018/08/25/introduction-to-python-for-delphi-programmers/)
 - [SendMessage Data](http://blog.marcocantu.com/blog/2014-september-vcl-xe7-taskbar-jumplist.html)
 
+## Interfaces
+ - [Resolvendo Vazamento de Memória em Injeção de Dependência](http://thuliobittencourt.com/blog/resolvendo-vazamento-de-memorias-em-injecao-de-dependencia/)
+
 
 ## Gráficos
 - https://stackoverflow.com/questions/10633400/rotate-bitmap-by-real-angle
