@@ -112,7 +112,24 @@
 - http://pragmaticcoders.com/blog/retrying-exceptions-handling-internet-connection-problems/
 - https://www.experts-exchange.com/questions/26190375/try-exception-with-retry-count.html
 
-var tryLimit: integer; ..... tryLimit := 5; while tryLimit > 0 do try check; tryLimit := 0; // succeeded - out except on E : Exception do begin Dec(tryLimit); if tryLimit = 0 then // used up all 5 tries raise; // let exception be raised end; end;
+```pascal
+var
+tryLimit: integer;
+.....
+tryLimit := 5;
+while tryLimit > 0 do
+try
+ check;
+ tryLimit := 0; // succeeded - out 
+except 
+ on E : Exception do
+ begin
+  Dec(tryLimit);
+  if tryLimit = 0 then // used up all 5 tries 
+   raise; // let exception be raised 
+ end;
+end;
+```
 
 - https://www.emailarchitect.net/easendmail/kb/delphi.aspx?cat=5
 - https://stackoverflow.com/questions/27613124/send-email-with-memorystream-attached
