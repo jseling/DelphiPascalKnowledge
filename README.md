@@ -7,6 +7,7 @@
 - http://www.andrecelestino.com/todos-os-artigos-do-blog-andre-celestino/
 - http://chapmanworld.com/
 - http://edgarpavao.com/
+- https://drgarcia1986.wordpress.com/
 - http://blog.marcocantu.com/
 - http://www.danieleteti.it/
 - http://thundaxsoftware.blogspot.com.br/
@@ -30,7 +31,13 @@
 
 ## Interfaces
  - [Resolvendo Vazamento de Memória em Injeção de Dependência](http://thuliobittencourt.com/blog/resolvendo-vazamento-de-memorias-em-injecao-de-dependencia/)
+ 
+ ## TDD
+- [Testes Unitários Automatizados no Delphi](https://www.devmedia.com.br/testes-unitarios-automatizados-no-delphi/28229)
 
+## WinAPI
+- [Utilizando as mensagens do Windows no Delphi](https://drgarcia1986.wordpress.com/2013/06/05/utilizando-as-mensagens-do-windows-no-delphi/)
+- [Criando um serviço do windows no Delphi](https://drgarcia1986.wordpress.com/2013/05/02/criando-um-servico-do-windows-no-delphi/)
 
 ## Gráficos
 - https://stackoverflow.com/questions/10633400/rotate-bitmap-by-real-angle
