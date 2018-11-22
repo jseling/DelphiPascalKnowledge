@@ -34,6 +34,7 @@
  
  ## TDD
 - [Testes Unitários Automatizados no Delphi](https://www.devmedia.com.br/testes-unitarios-automatizados-no-delphi/28229)
+- [TDD – Desenvolvimento Orientado a Testes com Delphi](https://delphicleancode.wordpress.com/2016/04/26/tdd-desenvolvimento-orientado-a-testes-com-delphi/)
 
 - :clapper:[Coderage XII Brasil Cesar Romero TDD no Delphi com Código Legado Parte 1 Apresentação](https://www.youtube.com/watch?time_continue=1058&v=ZWQO0bLB8gU)
 - :clapper:[Coderage XII Brasil Cesar Romero TDD no Delphi com Código Legado - Parte 2 - Refactory](https://www.youtube.com/watch?time_continue=1968&v=vQxAGV0SzTA)
