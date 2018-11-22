@@ -38,6 +38,12 @@
 - :clapper:[Coderage XII Brasil Cesar Romero TDD no Delphi com Código Legado Parte 1 Apresentação](https://www.youtube.com/watch?time_continue=1058&v=ZWQO0bLB8gU)
 - :clapper:[Coderage XII Brasil Cesar Romero TDD no Delphi com Código Legado - Parte 2 - Refactory](https://www.youtube.com/watch?time_continue=1968&v=vQxAGV0SzTA)
 
+- http://neftali.clubdelphi.com/test-unitarios-introduccin-entrega-1/
+- http://neftali.clubdelphi.com/test-unitarios-framework-dunit-entrega-2/
+- http://neftali.clubdelphi.com/convertir-test-de-dunit-a-dunitx-entrega-3/
+- http://neftali.clubdelphi.com/test-unitarios-framework-dunitx-entrega-4/
+- https://neftali.clubdelphi.com/entornos-de-ejecucin-de-test-con-dunitx-bonus-track/
+
 
 
 ## WinAPI
