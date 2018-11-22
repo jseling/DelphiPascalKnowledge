@@ -35,6 +35,11 @@
  ## TDD
 - [Testes Unitários Automatizados no Delphi](https://www.devmedia.com.br/testes-unitarios-automatizados-no-delphi/28229)
 
+- :clapper:[Coderage XII Brasil Cesar Romero TDD no Delphi com Código Legado Parte 1 Apresentação](https://www.youtube.com/watch?time_continue=1058&v=ZWQO0bLB8gU)
+- :clapper:[Coderage XII Brasil Cesar Romero TDD no Delphi com Código Legado - Parte 2 - Refactory](https://www.youtube.com/watch?time_continue=1968&v=vQxAGV0SzTA)
+
+
+
 ## WinAPI
 - [Utilizando as mensagens do Windows no Delphi](https://drgarcia1986.wordpress.com/2013/06/05/utilizando-as-mensagens-do-windows-no-delphi/)
 - [Criando um serviço do windows no Delphi](https://drgarcia1986.wordpress.com/2013/05/02/criando-um-servico-do-windows-no-delphi/)
