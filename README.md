@@ -2,6 +2,7 @@
 
 ## Blogs and sites
 - https://www.reddit.com/r/delphi/
+- http://rvelthuis.blogspot.com/
 - https://www.thedelphigeek.com/
 - https://sergworks.wordpress.com/
 - http://objectpascalprogramming.com/archive/
