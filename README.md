@@ -1,6 +1,7 @@
 # DelphiPascalKnowledge
 
 ## Blogs and sites
+- https://www.reddit.com/r/delphi/
 - https://www.thedelphigeek.com/
 - https://sergworks.wordpress.com/
 - http://objectpascalprogramming.com/archive/
