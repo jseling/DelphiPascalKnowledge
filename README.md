@@ -124,6 +124,8 @@
 - https://stackoverflow.com/questions/390307/windows-service-vs-scheduled-task
 - https://haacked.com/archive/2005/10/24/writing-a-windows-service-when-you-just-need-a-scheduled-process.aspx/
 - https://weblogs.asp.net/jongalloway/428303
+- https://crontab.guru/
+- http://www.cromis.net/blog/downloads/cron-scheduler/
 
 ## Linux
 - https://community.embarcadero.com/pt/blogs/entry/delphi-for-linux-rtl-units
