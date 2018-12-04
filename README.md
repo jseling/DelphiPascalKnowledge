@@ -35,6 +35,7 @@
  - [Resolvendo Vazamento de Memória em Injeção de Dependência](http://thuliobittencourt.com/blog/resolvendo-vazamento-de-memorias-em-injecao-de-dependencia/)
  
  ## TDD
+- [Unit Test em Delphi com DUnitX, Delphi Mocks e TestInsight](http://edgarpavao.com/2017/07/11/unit-test-em-delphi-com-dunitx-delphi-mocks-e-testinsight/) 
 - [Testes Unitários Automatizados no Delphi](https://www.devmedia.com.br/testes-unitarios-automatizados-no-delphi/28229)
 - [TDD – Desenvolvimento Orientado a Testes com Delphi](https://delphicleancode.wordpress.com/2016/04/26/tdd-desenvolvimento-orientado-a-testes-com-delphi/)
 
