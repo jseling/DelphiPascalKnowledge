@@ -54,7 +54,7 @@
 - [Utilizando as mensagens do Windows no Delphi](https://drgarcia1986.wordpress.com/2013/06/05/utilizando-as-mensagens-do-windows-no-delphi/)
 - [Criando um serviço do windows no Delphi](https://drgarcia1986.wordpress.com/2013/05/02/criando-um-servico-do-windows-no-delphi/)
 
-## Gráficos
+## Graphics
 - https://stackoverflow.com/questions/10633400/rotate-bitmap-by-real-angle
 - https://www.daniweb.com/programming/software-development/threads/382249/rotating-delphi-canvas-art-360-degrees
 - https://stackoverflow.com/questions/13583451/how-to-use-scanline-property-for-24-bit-bitmaps
@@ -75,7 +75,7 @@
 ## ReportBuilder
 - http://wiki.rh3software.com/rh3/doku.php?id=manual_usuario:outros:formatador_relatorio_reportbuilder_resumo 
 
-## Memória
+## Memory
 - http://conexaoss.blogspot.com.br/2016/08/delphi-comando-para-reducao-de-memoria.html
 - http://www.agnaldocarmo.com.br/home/comando-milagroso-para-reducao-de-memoria-delphi/
 - https://www.thoughtco.com/design-your-delphi-program-1058488
@@ -87,7 +87,7 @@
 ## OpenGL
 - http://delphi.org/2018/02/live-episode-on-delphi-games-and-graphics-engines/
 
-## Autenticação
+## Autentication
 - https://github.com/paolo-rossi/delphi-jose-jwt
 - http://blog.paolorossi.net/2017/04/27/jwt-authentication-with-delphi/
 - https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/individual-accounts-in-web-api#get-an-access-token
@@ -118,7 +118,7 @@
 - https://docs.microsoft.com/en-us/biztalk/technical-guides/optimizing-iis-performance
 - http://unigui.com/doc/online_help/index.html?standalone-server-_-isap-modul.htm
 
-## Agendador
+## Scheduling
 - http://chapmanworld.com/2017/04/05/creating-a-linux-daemon-service-in-delphi/
 - http://blog.paolorossi.net/2017/07/11/building-a-real-linux-daemon-with-delphi-part-1-2/
 - http://blog.paolorossi.net/2017/09/04/building-a-real-linux-daemon-with-delphi-part-2/
@@ -160,6 +160,6 @@ end;
 - http://www.planetadelphi.com.br/dica/7339/convertendo-richedit-em-html-sem-precisar-de-componentes-
 - https://www.devexpress.com/Support/Center/Question/Details/S91566/html-editor-component
 
-## Exceções
+## Exceptions
 - http://sheepdogguides.com/dt4u.htm
 - http://www.swissdelphicenter.ch/en/showarticle.php?id=1
