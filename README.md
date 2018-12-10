@@ -8,6 +8,7 @@
 - http://objectpascalprogramming.com/archive/
 - http://www.andrecelestino.com/todos-os-artigos-do-blog-andre-celestino/
 - https://jonlennartaasenden.wordpress.com/
+- https://blog.dummzeuch.de/
 - http://chapmanworld.com/
 - http://edgarpavao.com/
 - https://drgarcia1986.wordpress.com/
