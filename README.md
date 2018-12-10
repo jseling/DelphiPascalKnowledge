@@ -7,6 +7,7 @@
 - https://sergworks.wordpress.com/
 - http://objectpascalprogramming.com/archive/
 - http://www.andrecelestino.com/todos-os-artigos-do-blog-andre-celestino/
+- https://jonlennartaasenden.wordpress.com/
 - http://chapmanworld.com/
 - http://edgarpavao.com/
 - https://drgarcia1986.wordpress.com/
