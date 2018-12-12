@@ -63,6 +63,8 @@
 ## WinAPI
 - [Utilizando as mensagens do Windows no Delphi](https://drgarcia1986.wordpress.com/2013/06/05/utilizando-as-mensagens-do-windows-no-delphi/)
 - [Criando um serviço do windows no Delphi](https://drgarcia1986.wordpress.com/2013/05/02/criando-um-servico-do-windows-no-delphi/)
+- [Diferença entre WinExec e ShellExecute
+](https://pt.stackoverflow.com/questions/255859/diferen%C3%A7a-entre-winexec-e-shellexecute)
 
 ## Graphics
 - https://stackoverflow.com/questions/10633400/rotate-bitmap-by-real-angle
