@@ -26,6 +26,9 @@
 - http://www.delphifeeds.com/
 - https://www.beginend.net/
 
+## Foruns
+- https://en.delphipraxis.net/
+
 ## Opinion
 - [Why C# coders should shut up about Delphi](https://jonlennartaasenden.wordpress.com/2016/10/18/why-c-coders-should-shut-up-about-delphi/)
 
