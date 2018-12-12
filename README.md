@@ -33,6 +33,7 @@
 - [Why C# coders should shut up about Delphi](https://jonlennartaasenden.wordpress.com/2016/10/18/why-c-coders-should-shut-up-about-delphi/)
 
 ## Delphi
+- [Clean Code and High Performance Servers](http://blog.synopse.info/post/2018/11/12/EKON-22-Slides-and-Code)
 - [What Simple Changes Made the Biggest Improvements to Your Delphi Programs - Stackoverflow](https://stackoverflow.com/questions/373449/what-simple-changes-made-the-biggest-improvements-to-your-delphi-programs)
 - [Entrevista Cantu](https://entwickler-konferenz.de/blog/delphi-development-still-going-strong/)
 
