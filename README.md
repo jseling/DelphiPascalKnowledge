@@ -42,7 +42,7 @@
 - [SendMessage Data](http://blog.marcocantu.com/blog/2014-september-vcl-xe7-taskbar-jumplist.html)
 
 ## Microservices
-- [Desconstruindo monolitos - Construindo microservicos em Delphi](https://www.slideshare.net/felipecaputo/desconstruindo-monolitos-construindo-microservicos-em-delphi)
+- :card_index:[Desconstruindo monolitos - Construindo microservicos em Delphi](https://www.slideshare.net/felipecaputo/desconstruindo-monolitos-construindo-microservicos-em-delphi)
 
 ## Interfaces
  - [Resolvendo Vazamento de Memória em Injeção de Dependência](http://thuliobittencourt.com/blog/resolvendo-vazamento-de-memorias-em-injecao-de-dependencia/)
@@ -179,3 +179,6 @@ end;
 ## Exceptions
 - http://sheepdogguides.com/dt4u.htm
 - http://www.swissdelphicenter.ch/en/showarticle.php?id=1
+
+
+:banana::watermelon::cherries::grapes::strawberry::trophy:
