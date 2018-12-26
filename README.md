@@ -180,5 +180,7 @@ end;
 - http://sheepdogguides.com/dt4u.htm
 - http://www.swissdelphicenter.ch/en/showarticle.php?id=1
 
+## OCR
+- [OCR con Tesseract](http://delphimagic.blogspot.com/2012/12/ocr-con-delphi.html)
 
 :banana::watermelon::cherries::grapes::strawberry::trophy:
