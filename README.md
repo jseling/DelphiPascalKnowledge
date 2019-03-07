@@ -39,10 +39,10 @@
 - [Clean Code and High Performance Servers](http://blog.synopse.info/post/2018/11/12/EKON-22-Slides-and-Code)
 - [What Simple Changes Made the Biggest Improvements to Your Delphi Programs - Stackoverflow](https://stackoverflow.com/questions/373449/what-simple-changes-made-the-biggest-improvements-to-your-delphi-programs)
 - [Entrevista Cantu](https://entwickler-konferenz.de/blog/delphi-development-still-going-strong/)
-
 - [Property/event differences between Delphi forms and frames](https://wiert.me/2018/08/22/property-event-differences-between-delphi-forms-and-frames/)
 - [Introduction to Python for Delphi programmers](https://sergworks.wordpress.com/2018/08/25/introduction-to-python-for-delphi-programmers/)
 - [SendMessage Data](http://blog.marcocantu.com/blog/2014-september-vcl-xe7-taskbar-jumplist.html)
+- [Object Pascal Style Guide](http://edn.embarcadero.com/article/10280)
 
 ## Microservices
 - :card_index:[Desconstruindo monolitos - Construindo microservicos em Delphi](https://www.slideshare.net/felipecaputo/desconstruindo-monolitos-construindo-microservicos-em-delphi)
