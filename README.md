@@ -43,6 +43,7 @@
 - [Introduction to Python for Delphi programmers](https://sergworks.wordpress.com/2018/08/25/introduction-to-python-for-delphi-programmers/)
 - [SendMessage Data](http://blog.marcocantu.com/blog/2014-september-vcl-xe7-taskbar-jumplist.html)
 - [Object Pascal Style Guide](http://edn.embarcadero.com/article/10280)
+- [Allocation-Free Collections](https://blog.grijjy.com/2019/01/25/allocation-free-collections/)
 
 ## Microservices
 - :card_index:[Desconstruindo monolitos - Construindo microservicos em Delphi](https://www.slideshare.net/felipecaputo/desconstruindo-monolitos-construindo-microservicos-em-delphi)
