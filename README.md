@@ -108,6 +108,11 @@
 - http://www.regular-expressions.info/delphi.html
 - http://aurelio.net/regex/guia/
 
+## WebDriver
+- [Chromium Embedded Framework (CEF)](https://bitbucket.org/chromiumembedded/cef/src/master/)
+- [open default browser with a post in Delphi](https://stackoverflow.com/questions/2842452/open-default-browser-with-a-post-in-delphi)
+- [Utilizando o navegador Chrome no Delphi](https://delphimaniaco.wordpress.com/2016/03/15/utilizando-o-navegador-chrome-no-delphi/)
+
 ## OpenGL
 - http://delphi.org/2018/02/live-episode-on-delphi-games-and-graphics-engines/
 
