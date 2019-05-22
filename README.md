@@ -114,7 +114,8 @@
 - [Utilizando o navegador Chrome no Delphi](https://delphimaniaco.wordpress.com/2016/03/15/utilizando-o-navegador-chrome-no-delphi/)
 
 ## OpenGL
-- http://delphi.org/2018/02/live-episode-on-delphi-games-and-graphics-engines/
+- https://github.com/neslib/DelphiLearnOpenGL
+- https://edn.embarcadero.com/article/26401
 
 ## Autentication
 - https://github.com/paolo-rossi/delphi-jose-jwt
