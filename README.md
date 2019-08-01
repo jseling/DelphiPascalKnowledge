@@ -30,6 +30,7 @@
 - https://en.delphipraxis.net/
 
 ## Opinion
+- [Why Pascal is Not My Favorite Programming Language](http://www.lysator.liu.se/c/bwk-on-pascal.html)
 - [Why C# coders should shut up about Delphi](https://jonlennartaasenden.wordpress.com/2016/10/18/why-c-coders-should-shut-up-about-delphi/)
 
 ## Pascal
