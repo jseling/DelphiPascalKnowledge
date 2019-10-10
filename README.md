@@ -26,6 +26,9 @@
 - http://www.delphifeeds.com/
 - https://www.beginend.net/
 
+## Livros
+- [Delphis Database Architecture](https://flylib.com/books/en/2.37.1/delphis_database_architecture.html)
+
 ## Foruns
 - https://en.delphipraxis.net/
 
