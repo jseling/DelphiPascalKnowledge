@@ -95,6 +95,7 @@
 - https://restlet.com/open-source/documentation/tutorials/2.3/overview
 - https://flixengineering.com/archives/229
 - https://flixengineering.com/archives/248
+- [Create REST API’s with FreePascal](https://medium.com/@marcusfernstrm/create-rest-apis-with-freepascal-441e4aa447b7)
 
 ## RTTI
 - http://edn.embarcadero.com/br/article/41728
