@@ -49,6 +49,18 @@
 - [Object Pascal Style Guide](http://edn.embarcadero.com/article/10280)
 - [Allocation-Free Collections](https://blog.grijjy.com/2019/01/25/allocation-free-collections/)
 
+## Parallel Programming Library
+- [Utilizando o mecanismo de processamento paralelo](https://www.andrecelestino.com/delphi-utilizando-o-mecanismo-de-processamento-paralelo/)
+- [Como usar a biblioteca de programação paralela do Delphi?](https://showdelphi.com.br/como-usar-a-biblioteca-de-programacao-paralela-do-delphi/)
+- [Multithreading e Processamento Paralelo no Delphi (PPL)](http://edgarpavao.com/tag/programacao-paralela/)
+- [Using the Parallel Programming Library](http://docwiki.embarcadero.com/RADStudio/Rio/en/Using_the_Parallel_Programming_Library)
+- [Parallel Programming Library Tutorials](http://docwiki.embarcadero.com/RADStudio/Rio/en/Parallel_Programming_Library_Tutorials)
+- [Explaining Tasks in Delphi Parallel Library... by Creating too Many Tasks](http://blog.marcocantu.com/blog/2017-november-explaining-tasks-ppl-too-many.html)
+- [Common problems in Delphi parallel programming](https://hub.packtpub.com/common-problems-in-delphi-parallel-programming/)
+- [PPL - TTask an example in how not to use.](http://robstechcorner.blogspot.com/2015/02/tpl-ttask-example-in-how-not-to-use.html)
+- [TTask, Parallel Library -- DO NOT USE](https://en.delphipraxis.net/topic/504-changes-in-parallel-library/)
+
+
 ## Microservices
 - :card_index:[Desconstruindo monolitos - Construindo microservicos em Delphi](https://www.slideshare.net/felipecaputo/desconstruindo-monolitos-construindo-microservicos-em-delphi)
 - [Criando Web Services de Alto Desempenho com Delphi](http://eugostododelphi.blogspot.com/2016/01/criando-web-services-de-alto-desempenho.html)
