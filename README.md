@@ -109,6 +109,9 @@
 - https://flixengineering.com/archives/248
 - [Create REST API’s with FreePascal](https://medium.com/@marcusfernstrm/create-rest-apis-with-freepascal-441e4aa447b7)
 
+## cURL
+- [Delphi: Comunicação HTTPS + JSON via CURL](http://zumbiprogramador.blogspot.com/2018/09/delphi-comunicacao-https-via-curl.html)
+
 ## RTTI
 - http://edn.embarcadero.com/br/article/41728
 
