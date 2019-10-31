@@ -184,7 +184,14 @@
 
 ## Email
 - http://pragmaticcoders.com/blog/retrying-exceptions-handling-internet-connection-problems/
-- https://www.experts-exchange.com/questions/26190375/try-exception-with-retry-count.html
+- https://www.emailarchitect.net/easendmail/kb/delphi.aspx?cat=5
+- https://stackoverflow.com/questions/27613124/send-email-with-memorystream-attached
+- http://www.planetadelphi.com.br/dica/7339/convertendo-richedit-em-html-sem-precisar-de-componentes-
+- https://www.devexpress.com/Support/Center/Question/Details/S91566/html-editor-component
+
+## Retry
+- [Múltiplas tentativas de execução em Delphi (Retry)](http://edgarpavao.com/2019/07/21/multiplas-tentativas-de-execucao-em-delphi-retry/)
+- [try exception with retry count](https://www.experts-exchange.com/questions/26190375/try-exception-with-retry-count.html)
 
 ```pascal
 var
@@ -204,11 +211,6 @@ except
  end;
 end;
 ```
-
-- https://www.emailarchitect.net/easendmail/kb/delphi.aspx?cat=5
-- https://stackoverflow.com/questions/27613124/send-email-with-memorystream-attached
-- http://www.planetadelphi.com.br/dica/7339/convertendo-richedit-em-html-sem-precisar-de-componentes-
-- https://www.devexpress.com/Support/Center/Question/Details/S91566/html-editor-component
 
 ## Exceptions
 - http://sheepdogguides.com/dt4u.htm
