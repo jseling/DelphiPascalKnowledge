@@ -38,6 +38,7 @@
 
 ## Pascal
 - [The Big Five of Modern Pascal](https://pak.lebah.web.id/pascal5.html)
+- [Serverless computing with Pascal?](https://medium.com/google-cloud/serverless-computing-with-pascal-d7a16633db44)
 
 ## Delphi
 - [Clean Code and High Performance Servers](http://blog.synopse.info/post/2018/11/12/EKON-22-Slides-and-Code)
