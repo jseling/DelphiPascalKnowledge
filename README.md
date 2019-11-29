@@ -103,6 +103,10 @@
 - https://stackoverflow.com/questions/13583451/how-to-use-scanline-property-for-24-bit-bitmaps
 - http://www.efg2.com/Lab/ImageProcessing/RotateScanline.htm
 
+## Performance
+- [SIMD Assembly Optimization](https://blog.grijjy.com/2017/07/10/simd-assembly-optimization/)
+- [FastMath - Fast Math Library for Delphi](https://neslib.github.io/FastMath/)
+
 ## REST
 - http://etutorials.org/Programming/mastering+delphi+7/Part+IV+Delphi+the+Internet+and+a+.NET+Preview/Chapter+20+Web+Programming+with+WebBroker+and+WebSnap/Delphi+s+WebBroker+Technology/
 - http://www.delphisources.ru/pages/faq/master-delphi-7/content/LiB0188.html
