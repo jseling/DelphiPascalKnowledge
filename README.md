@@ -50,6 +50,9 @@
 - [Object Pascal Style Guide](http://edn.embarcadero.com/article/10280)
 - [Allocation-Free Collections](https://blog.grijjy.com/2019/01/25/allocation-free-collections/)
 
+## Librarys
+- [velthuis.Consoles - Console related code for Delphi](https://github.com/rvelthuis/Consoles)
+
 ## Parallel Programming Library
 - [Utilizando o mecanismo de processamento paralelo](https://www.andrecelestino.com/delphi-utilizando-o-mecanismo-de-processamento-paralelo/)
 - [Como usar a biblioteca de programação paralela do Delphi?](https://showdelphi.com.br/como-usar-a-biblioteca-de-programacao-paralela-do-delphi/)
