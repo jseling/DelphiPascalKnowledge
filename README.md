@@ -2,6 +2,7 @@
 
 ## Blogs and sites
 - [Reddit Delphi](https://www.reddit.com/r/delphi/)
+- [DelphiPower.XYZ: Advanced Delphi Programming](https://www.delphipower.xyz/)
 - http://rvelthuis.blogspot.com/
 - https://www.thedelphigeek.com/
 - https://sergworks.wordpress.com/
