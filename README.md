@@ -64,7 +64,7 @@
 - [Common problems in Delphi parallel programming](https://hub.packtpub.com/common-problems-in-delphi-parallel-programming/)
 - [PPL - TTask an example in how not to use.](http://robstechcorner.blogspot.com/2015/02/tpl-ttask-example-in-how-not-to-use.html)
 - [TTask, Parallel Library -- DO NOT USE](https://en.delphipraxis.net/topic/504-changes-in-parallel-library/)
-
+- [Name your threads, even the ones auto-created by Delphi](https://www.ideasawakened.com/post/name-your-threads-even-the-ones-auto-created-by-delphi)
 
 ## Microservices
 - :card_index:[Desconstruindo monolitos - Construindo microservicos em Delphi](https://www.slideshare.net/felipecaputo/desconstruindo-monolitos-construindo-microservicos-em-delphi)
