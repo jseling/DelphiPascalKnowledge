@@ -54,6 +54,7 @@
 ## Librarys
 - [velthuis.Consoles - Console related code for Delphi](https://github.com/rvelthuis/Consoles)
 - [Delphi JavaScript execution - ditch TWebBrowser for ChakraCore](https://www.ideasawakened.com/post/delphi-javascript-execution-ditch-twebbrowser-for-chakracore)
+- [libcurl and Delphi](https://www.ideasawakened.com/post/libcurl-and-delphi)
 
 ## Parallel Programming Library
 - [Utilizando o mecanismo de processamento paralelo](https://www.andrecelestino.com/delphi-utilizando-o-mecanismo-de-processamento-paralelo/)
