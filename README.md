@@ -55,6 +55,7 @@
 - [velthuis.Consoles - Console related code for Delphi](https://github.com/rvelthuis/Consoles)
 - [Delphi JavaScript execution - ditch TWebBrowser for ChakraCore](https://www.ideasawakened.com/post/delphi-javascript-execution-ditch-twebbrowser-for-chakracore)
 - [libcurl and Delphi](https://www.ideasawakened.com/post/libcurl-and-delphi)
+- [hixie Pascal Librarys, JSON and others](http://software.hixie.ch/libraries/pascal/misc/)
 
 ## Parallel Programming Library
 - [Utilizando o mecanismo de processamento paralelo](https://www.andrecelestino.com/delphi-utilizando-o-mecanismo-de-processamento-paralelo/)
@@ -121,6 +122,8 @@
 - https://restlet.com/open-source/documentation/tutorials/2.3/overview
 - https://flixengineering.com/archives/229
 - https://flixengineering.com/archives/248
+- [Create REST API’s with FreePascal](https://medium.com/@marcusfernstrm/create-rest-apis-with-freepascal-441e4aa447b7)
+- [FreePascal and JSON](https://medium.com/@marcusfernstrm/freepascal-and-json-337c04cad489)
 - [Create REST API’s with FreePascal](https://medium.com/@marcusfernstrm/create-rest-apis-with-freepascal-441e4aa447b7)
 
 ## cURL
