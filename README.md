@@ -1,6 +1,7 @@
 # DelphiPascalKnowledge
 
 ## Blogs and sites
+- [Marcus Fernström](https://medium.com/@marcusfernstrm)
 - [Reddit Delphi](https://www.reddit.com/r/delphi/)
 - [DelphiPower.XYZ: Advanced Delphi Programming](https://www.delphipower.xyz/)
 - http://rvelthuis.blogspot.com/
