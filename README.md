@@ -27,6 +27,7 @@
 - https://andy.jgknet.de/blog/
 - http://www.delphifeeds.com/
 - https://www.beginend.net/
+- [Delphi Science: Science of Delphi & Delphi of Science](https://delphiscience.wordpress.com/)
 
 ## Livros
 - [Delphis Database Architecture](https://flylib.com/books/en/2.37.1/delphis_database_architecture.html)
