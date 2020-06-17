@@ -105,6 +105,7 @@
 - [Criando um serviço do windows no Delphi](https://drgarcia1986.wordpress.com/2013/05/02/criando-um-servico-do-windows-no-delphi/)
 - [Diferença entre WinExec e ShellExecute
 ](https://pt.stackoverflow.com/questions/255859/diferen%C3%A7a-entre-winexec-e-shellexecute)
+- [Developing Delphi programs in Windows API without the Forms unit](http://www.angelfire.com/hi5/delphizeus/)
 
 ## Graphics
 - https://stackoverflow.com/questions/10633400/rotate-bitmap-by-real-angle
