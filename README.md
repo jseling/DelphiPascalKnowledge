@@ -1,6 +1,7 @@
 # DelphiPascalKnowledge
 
 ## Blogs and sites
+- :star:[Awesome Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)
 - [Marcus Fernström](https://medium.com/@marcusfernstrm)
 - [Reddit Delphi](https://www.reddit.com/r/delphi/)
 - [DelphiPower.XYZ: Advanced Delphi Programming](https://www.delphipower.xyz/)
