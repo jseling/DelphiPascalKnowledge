@@ -154,10 +154,6 @@
 - [open default browser with a post in Delphi](https://stackoverflow.com/questions/2842452/open-default-browser-with-a-post-in-delphi)
 - [Utilizando o navegador Chrome no Delphi](https://delphimaniaco.wordpress.com/2016/03/15/utilizando-o-navegador-chrome-no-delphi/)
 
-## OpenGL
-- https://github.com/neslib/DelphiLearnOpenGL
-- https://edn.embarcadero.com/article/26401
-
 ## Autentication
 - https://github.com/paolo-rossi/delphi-jose-jwt
 - http://blog.paolorossi.net/2017/04/27/jwt-authentication-with-delphi/
