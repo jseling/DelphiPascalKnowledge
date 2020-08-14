@@ -116,7 +116,7 @@
 
 ## Performance
 - [SIMD Assembly Optimization](https://blog.grijjy.com/2017/07/10/simd-assembly-optimization/)
-- [Let’s Write Some Assembly Language Code!](https://codeburst.io/lets-write-some-assembly-language-code-d8edb9b6c217)
+- [Asm - assembly no delphi](http://www.help.market.com.br/delphi/asm_-_assembly_no_delphi_txt.htm)
 - [FastMath - Fast Math Library for Delphi](https://neslib.github.io/FastMath/)
 
 ## REST
