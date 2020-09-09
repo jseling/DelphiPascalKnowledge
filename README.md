@@ -135,7 +135,7 @@
 - [Delphi: Comunicação HTTPS + JSON via CURL](http://zumbiprogramador.blogspot.com/2018/09/delphi-comunicacao-https-via-curl.html)
 
 ## RTTI
-- http://edn.embarcadero.com/br/article/41728
+- http://edn.embarcadero.com/article/41728
 
 ## ReportBuilder
 - http://wiki.rh3software.com/rh3/doku.php?id=manual_usuario:outros:formatador_relatorio_reportbuilder_resumo 
