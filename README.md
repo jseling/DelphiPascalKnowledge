@@ -120,6 +120,10 @@
 - [Asm - assembly no delphi](http://www.help.market.com.br/delphi/asm_-_assembly_no_delphi_txt.htm)
 - [FastMath - Fast Math Library for Delphi](https://neslib.github.io/FastMath/)
 
+## SQLite
+- [Using SQLite with FireDAC](http://docwiki.embarcadero.com/RADStudio/Sydney/en/Using_SQLite_with_FireDAC)
+
+
 ## REST
 - http://etutorials.org/Programming/mastering+delphi+7/Part+IV+Delphi+the+Internet+and+a+.NET+Preview/Chapter+20+Web+Programming+with+WebBroker+and+WebSnap/Delphi+s+WebBroker+Technology/
 - http://www.delphisources.ru/pages/faq/master-delphi-7/content/LiB0188.html
