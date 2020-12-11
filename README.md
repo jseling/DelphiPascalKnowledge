@@ -152,6 +152,7 @@
 - http://conexaoss.blogspot.com.br/2016/08/delphi-comando-para-reducao-de-memoria.html
 - http://www.agnaldocarmo.com.br/home/comando-milagroso-para-reducao-de-memoria-delphi/
 - https://www.thoughtco.com/design-your-delphi-program-1058488
+- [Can memory be cleaned up?](https://stackoverflow.com/questions/2031577/can-memory-be-cleaned-up/2031886#2031886)
 
 ## RegEx
 - http://www.regular-expressions.info/delphi.html
