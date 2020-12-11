@@ -41,6 +41,7 @@
 - [Why Pascal is Not My Favorite Programming Language](http://www.lysator.liu.se/c/bwk-on-pascal.html)
 - [Why C# coders should shut up about Delphi](https://jonlennartaasenden.wordpress.com/2016/10/18/why-c-coders-should-shut-up-about-delphi/)
 
+
 ## Pascal
 - [The Big Five of Modern Pascal](https://pak.lebah.web.id/pascal5.html)
 - [Serverless computing with Pascal?](https://medium.com/google-cloud/serverless-computing-with-pascal-d7a16633db44)
@@ -147,6 +148,7 @@
 
 ## Memory
 - [FastMM and Unit Testing](https://www.davidghoyle.co.uk/WordPress/?p=2089)
+- [Remy Lebeau about FastMM use (defense)](https://en.delphipraxis.net/topic/2370-difference-between-fastmm-4992-and-one-that-comes-with-delphi-103/)
 - http://conexaoss.blogspot.com.br/2016/08/delphi-comando-para-reducao-de-memoria.html
 - http://www.agnaldocarmo.com.br/home/comando-milagroso-para-reducao-de-memoria-delphi/
 - https://www.thoughtco.com/design-your-delphi-program-1058488
