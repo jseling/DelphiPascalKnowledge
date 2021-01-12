@@ -55,6 +55,7 @@
 - [SendMessage Data](http://blog.marcocantu.com/blog/2014-september-vcl-xe7-taskbar-jumplist.html)
 - [Object Pascal Style Guide](http://edn.embarcadero.com/article/10280)
 - [Allocation-Free Collections](https://blog.grijjy.com/2019/01/25/allocation-free-collections/)
+- [Fast Inverse Square Root in Delphi’s Object Pascal](https://blogs.embarcadero.com/fast-inverse-square-root-in-delphis-object-pascal/)
 
 ## Librarys
 - [velthuis.Consoles - Console related code for Delphi](https://github.com/rvelthuis/Consoles)
