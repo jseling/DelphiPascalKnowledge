@@ -121,6 +121,7 @@
 - [SIMD Assembly Optimization](https://blog.grijjy.com/2017/07/10/simd-assembly-optimization/)
 - [Asm - assembly no delphi](http://www.help.market.com.br/delphi/asm_-_assembly_no_delphi_txt.htm)
 - [FastMath - Fast Math Library for Delphi](https://neslib.github.io/FastMath/)
+- [SIMD](https://nick-black.com/dankwiki/index.php?title=SIMD)
 
 ## SQLite
 - [Using SQLite with FireDAC](http://docwiki.embarcadero.com/RADStudio/Sydney/en/Using_SQLite_with_FireDAC)
