@@ -1,5 +1,10 @@
 # DelphiPascalKnowledge
 
+
+## BPL module not found?
+Run CCleaner, probably you unistalled recently another Delphi version.
+
+
 ## Blogs and sites
 - :star:[Awesome Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)
 - [Marcus Fernström](https://medium.com/@marcusfernstrm)
