@@ -61,12 +61,14 @@ Run CCleaner, probably you unistalled recently another Delphi version.
 - [Object Pascal Style Guide](http://edn.embarcadero.com/article/10280)
 - [Allocation-Free Collections](https://blog.grijjy.com/2019/01/25/allocation-free-collections/)
 - [Fast Inverse Square Root in Delphi’s Object Pascal](https://blogs.embarcadero.com/fast-inverse-square-root-in-delphis-object-pascal/)
+- [Writing And Controlling Automation Servers In Delphi](http://www.blong.com/Articles/Automation%20In%20Delphi/Automation.htm)
 
 ## Librarys
 - [velthuis.Consoles - Console related code for Delphi](https://github.com/rvelthuis/Consoles)
 - [Delphi JavaScript execution - ditch TWebBrowser for ChakraCore](https://www.ideasawakened.com/post/delphi-javascript-execution-ditch-twebbrowser-for-chakracore)
 - [libcurl and Delphi](https://www.ideasawakened.com/post/libcurl-and-delphi)
 - [hixie Pascal Librarys, JSON and others](http://software.hixie.ch/libraries/pascal/misc/)
+- [Download file progressively using TIdHttp](https://stackoverflow.com/questions/13641055/download-file-progressively-using-tidhttp)
 
 ## Parallel Programming Library
 - [Utilizando o mecanismo de processamento paralelo](https://www.andrecelestino.com/delphi-utilizando-o-mecanismo-de-processamento-paralelo/)
@@ -251,5 +253,9 @@ end;
 
 ## OCR
 - [OCR con Tesseract](http://delphimagic.blogspot.com/2012/12/ocr-con-delphi.html)
+
+## NFC-e
+- [NFC-e em Santa Catarina: novidades para 2022](https://enotas.com.br/blog/nfce-em-santa-catarina/)
+- [SEF/SC - NFC-e - Nota Fiscal de Consumidor Eletrônica](https://www.sef.sc.gov.br/servicos/servico/136/NFC-e_-_Nota_Fiscal_de_Consumidor_Eletr%C3%B4nica)
 
 :banana::watermelon::cherries::grapes::strawberry::trophy:
